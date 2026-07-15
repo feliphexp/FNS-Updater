@@ -1,45 +1,38 @@
 {
-    "traduções":
-
-	      "id": "tinfoil_premium",
-            "nome": "Tinfoil Premium Configurado",
-            "url": "https://github.com/feliphexp/FNS-Updater/releases/download/Tinfoil_Premium/tinfoil_premium.zip",
-            "caminho": "sdmc:/interruptor/papel alumínio/"
-	
-	{
-        "Interruptor 1-2": {
-            "habilitado": verdadeiro,
+    "translations": {
+        "1-2 Switch": {
+            "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
-            "tamanho": "53,7 MB",
-            "instalado": {
-                "arquivo_hash": "01000320000CC000/romfs/NX32/EUen/autogen/splash_screen/texture.bin.szs",
+            "size": "53.7 MB",
+            "installed": {
+                "hash_file": "01000320000CC000/romfs/NX32/EUen/autogen/splash_screen/texture.bin.szs",
                 "hash_size": 1894439,
-                "desinstalar": {
-                    "caminho01": "01000320000CC000/romfs"
+                "uninstall": {
+                    "path01": "01000320000CC000/romfs"
                 }
             }
         },
-        "12 é melhor que 6": {
-            "habilitado": verdadeiro,
+        "12 is better than 6": {
+            "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/12_is_better_than_6/01007F600D1B8000.zip",
-            "tamanho": "622 KB",
-            "instalado": {
-                "arquivo_hash": "01007F600D1B8000/romfs/localization.csv",
+            "size": "622 KB",
+            "installed": {
+                "hash_file": "01007F600D1B8000/romfs/localization.csv",
                 "hash_size": 921202,
-                "desinstalar": {
-                    "caminho01": "01007F600D1B8000/romfs"
+                "uninstall": {
+                    "path01": "01007F600D1B8000/romfs"
                 }
             }
         },
-        "O legado de Alwa": {
-            "habilitado": verdadeiro,
+        "Alwa's Legacy": {
+            "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Alwa's_Legacy/01001B7012214000.zip",
-            "tamanho": "319 KB",
-            "instalado": {
-                "arquivo_hash": "01001B7012214000/romfs/Dados/recursos.ativos",
+            "size": "319 KB",
+            "installed": {
+                "hash_file": "01001B7012214000/romfs/Data/resources.assets",
                 "hash_size": 1001232,
-                "desinstalar": {
-                    "caminho01": "01001B7012214000/romfs"
+                "uninstall": {
+                    "path01": "01001B7012214000/romfs"
                 }
             }
         },
