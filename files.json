@@ -1,1 +1,16 @@
-
+{
+    "downloads": [
+        {
+            "id": "tinfoil_premium",
+            "name": "Tinfoil Premium Configurado",
+            "url": "https://github.com/feliphexp/FNS-Updater/releases/download/Tinfoil_Premium/tinfoil_premium.zip",
+            "path": "sdmc:/switch/tinfoil/"
+        },
+        {
+            "id": "tsvitch_config",
+            "name": "TSVitch Configurado",
+            "url": "https://github.com/feliphexp/FNS-Updater/releases/download/Tinfoil_Premium/tsvitch.zip",
+            "path": "sdmc:/switch/tsvitch/"
+        }
+    ]
+}
